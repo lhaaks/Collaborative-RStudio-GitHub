@@ -7,7 +7,7 @@
 sig2 <- 2.15
     
 # e.g. "anas_krystallinus"    
-species.name <- lucus_slothus
+species.name <- "lucus_slothus""
     
 # e.g. "red"    
 color <- "#2F58EB"
